@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cong Guo</title>
-    <link>https://cleverclancy.github.io/categories/</link>
+    <link>https://clevercool.github.io/categories/</link>
     <description>Recent content in Categories on Cong Guo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cleverclancy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://clevercool.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
