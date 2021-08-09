@@ -607,7 +607,7 @@ collections:
   - label: Author Notes (contributions or affiliations for each author)
     name: author_notes
     required: false
-    widget: list
+    widget: string
   - label: DOI
     name: doi
     required: false
